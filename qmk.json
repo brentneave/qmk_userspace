@@ -6,7 +6,7 @@
         "custom_hlc",
         {
             "HLC_CIRQUE_TRACKPAD": "1",
-            "TARGET": "splitkb_halcyon_ferris_rev1_default_hlc_cirque_trackpad"
+            "TARGET": "splitkb_halcyon_ferris_rev1_custom_hlc_cirque_trackpad"
         }
     ]
 }
